@@ -15,6 +15,7 @@ if (!empty($_POST)) {
       $db->query("INSERT INTO results (name, sectors, terms) VALUES('$name', '$sectors',$terms)");
       $_SESSION['id'] = $db->insert_id;
     }
+    echo "Thank you ". $name .", your information is saved!";
   }
 }
 
