@@ -1,4 +1,4 @@
-#Requirements and installation
+# Requirements and installation
 * MySQL database
 * PHP 7.0
 

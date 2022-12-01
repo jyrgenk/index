@@ -1,4 +1,4 @@
-#Tasks:
+# Tasks:
 1. Correct all of the deficiencies in index.html
 2. "Sectors" selectbox:
    2.1. Add all the entries from the "Sectors" selectbox to database
